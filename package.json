@@ -1,0 +1,38 @@
+{
+  "name": "3d-image-processing-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/material": "^5.16.0",
+    "@react-three/drei": "^9.108.3",
+    "@react-three/fiber": "^8.16.8",
+    "bcryptjs": "^2.4.3",
+    "crypto-js": "^4.2.0",
+    "file-saver": "^2.0.5",
+    "konva": "^9.3.13",
+    "mongoose": "^8.5.0",
+    "next": "14.2.4",
+    "next-auth": "^5.0.0-beta.19",
+    "react": "^18",
+    "react-color": "^2.19.3",
+    "react-dom": "^18",
+    "react-konva": "^18.2.10",
+    "socket.io": "^4.7.5",
+    "socket.io-client": "^4.7.5",
+    "three": "^0.166.1",
+    "three-gltf-exporter": "^0.0.1",
+    "three-obj-exporter": "^0.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.4"
+  }
+}
